@@ -2,7 +2,7 @@
 
 ## 部署链接：
 
-[pythonyanywhere]("http://chanyh.pythonanywhere.com/")
+[pythonyanywhere](http://chanyh.pythonanywhere.com/)
 
 ## 社会环境
 
